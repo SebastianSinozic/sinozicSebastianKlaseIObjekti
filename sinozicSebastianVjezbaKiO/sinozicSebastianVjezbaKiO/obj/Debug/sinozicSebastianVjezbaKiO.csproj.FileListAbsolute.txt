@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\sinozicSebastianVjezbaKiO\sinozicSebastianVjezbaKiO\bin\Debug\sinozicSebastianVjezbaKiO.exe.config
+C:\Users\3.D\source\repos\sinozicSebastianVjezbaKiO\sinozicSebastianVjezbaKiO\bin\Debug\sinozicSebastianVjezbaKiO.exe
+C:\Users\3.D\source\repos\sinozicSebastianVjezbaKiO\sinozicSebastianVjezbaKiO\bin\Debug\sinozicSebastianVjezbaKiO.pdb
+C:\Users\3.D\source\repos\sinozicSebastianVjezbaKiO\sinozicSebastianVjezbaKiO\obj\Debug\sinozicSebastianVjezbaKiO.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\sinozicSebastianVjezbaKiO\sinozicSebastianVjezbaKiO\obj\Debug\sinozicSebastianVjezbaKiO.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\sinozicSebastianVjezbaKiO\sinozicSebastianVjezbaKiO\obj\Debug\sinozicSebastianVjezbaKiO.exe
+C:\Users\3.D\source\repos\sinozicSebastianVjezbaKiO\sinozicSebastianVjezbaKiO\obj\Debug\sinozicSebastianVjezbaKiO.pdb
